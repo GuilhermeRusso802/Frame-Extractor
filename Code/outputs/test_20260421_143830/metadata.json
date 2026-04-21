@@ -1,0 +1,11 @@
+{
+    "video_name": "test",
+    "video_path": "C:/Users/guiru/Desktop/Est\u00e1gio/Code/test.mp4",
+    "output_directory": "C:/Users/guiru/Desktop/Est\u00e1gio/Code/outputs\\test_20260421_143830",
+    "processing_date": "20260421_143830",
+    "fps": 6.0,
+    "total_frames": 775,
+    "frame_interval": 30,
+    "frames_extracted": 26,
+    "processing_time_seconds": 3.41
+}
