@@ -1,7 +1,0 @@
-{
-    "video_path": "test.mp4",
-    "fps": 6.0,
-    "total_frames": 775,
-    "frame_interval": 30,
-    "frames_extracted": 26
-}
