@@ -144,8 +144,7 @@ python main.py \
     --start-time 10 \
     --end-time 60 \
     --image-format jpg \
-    --jpeg-quality 95 \
-    --verbose
+    --jpeg-quality 95
 ```
 
 ### Argumentos disponíveis
@@ -159,7 +158,6 @@ python main.py \
 | `--end-time`      | float   | *(fim)*   | Tempo final em segundos                         |
 | `--image-format`  | str     | `jpg`     | Formato das imagens: `jpg` ou `png`             |
 | `--jpeg-quality`  | int     | `95`      | Qualidade JPEG (1–100)                          |
-| `--verbose`       | flag    | `False`   | Ativa *logs* detalhados                         |
 
 ---
 
