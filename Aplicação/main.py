@@ -71,16 +71,11 @@ def main():
         default=95,
         help="Qualidade JPEG entre 1 e 100 (default: 95)",
     )
-    parser.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Mostrar logs detalhados",
-    )
 
     args = parser.parse_args()
 
     logging.basicConfig(
-        level=logging.DEBUG if args.verbose else logging.INFO,
+        level=logging.INFO,
         format="%(asctime)s [%(levelname)s] %(message)s",
     )
 
