@@ -160,6 +160,7 @@ python main.py \
 | `--jpeg-quality`  | int     | `95`      | Qualidade JPEG (1–100)                          |
 
 Nota: O argumento 'jpeg-quality' é incompatível com o formato de imagem 'png'
+
 ---
 
 ## Uso como biblioteca
